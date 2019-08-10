@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Eat It</string>
+    <string name="slogan">We Do Camel Burgers Right</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="edtPhoneHint">Phone #</string>
+    <string name="phone">Phone #</string>
+    <string name="edtName">Name</string>
+    <string name="edtPassword">Password</string>
+</resources>

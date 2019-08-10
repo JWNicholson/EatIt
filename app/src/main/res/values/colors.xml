@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4d6e7f</color>
+    <color name="colorPrimaryDark">#333d45</color>
+    <color name="colorAccent">#D5C9BB</color>
+    <color name="colorBtnSignUp">#fe6607</color>
+    <color name="colorBtnSignActive">#2196F3</color>
+    <color name="inputBackground">#f0ead6</color>
+</resources>
